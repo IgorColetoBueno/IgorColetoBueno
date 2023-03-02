@@ -1,6 +1,6 @@
 # Igor Bueno
 
-This profile is intended to be a portfolio, specialy to interviews and people interested in my projects. You can feel free to clone any project and contribute in them.
+I am software developer for 7 years, passionate about technology and the web as a whole. My professional goal is work in international projects and become a reference professional in the IT scenario.
 
 ## Hard Skills
 
