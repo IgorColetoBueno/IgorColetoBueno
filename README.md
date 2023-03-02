@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/17251330/222299227-ab581c04-291b-458f-ae8e-5587b0d24f3c.png)
-
+![Untitled](https://user-images.githubusercontent.com/17251330/222299627-71d9c1d8-7fdb-4c09-9a28-daab2bba5ca0.png)
 # Igor Bueno
 
 This profile is intended to be a portfolio, specialy to interviews and people interested in my projects. You can feel free to clone any project and contribute in them.
@@ -24,4 +23,47 @@ This profile is intended to be a portfolio, specialy to interviews and people in
 
 - Feeling of belonging to the company
 - Leadership
-- Communication
+- Strong communication
+- Responsibility
+- Constant evolution
+
+## Job experiences
+
+### Foursys · Full-time
+**React Engineer**
+> Apr 2022 - Present · 1 yr
+
+> Skills: Redux.js · Next.js · SASS · Docker · API REST · JavaScript · React.js
+
+I am working as React.js developer
+
+---
+### Alpha Software · Full-time
+**Project Manager and developer**
+> June 2019 - Mar 2022 · 2 yrs 11 mos
+
+> Skills: Redux.js · SASS · .NET Web API · JavaScript · React.js · React Native
+
+I worked as Project Manager and .NET and React developer
+
+---
+### Alpha Software · Full-time
+**React Engineer**
+> May 2016 - May 2019 · 3 yrs 2 mos
+
+> Skills: Redux.js · SASS · .NET Web API · JavaScript · React.js · React Native
+
+I worked as .NET, React.js and React Native developer
+
+## Education
+
+### IFRO (Federal Institute of Education, Science and Technology of Rondônia)
+**Technologist - System Analist**
+> Feb 2017 - Dec 2019
+
+I worked as Project Manager and .NET and React developer
+
+### IFRO (Federal Institute of Education, Science and Technology of Rondônia)
+**Technical Course - Computer Technician**
+> 2014 - 2016
+
