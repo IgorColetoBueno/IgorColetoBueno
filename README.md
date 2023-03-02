@@ -1,4 +1,3 @@
-![Untitled](https://user-images.githubusercontent.com/17251330/222299627-71d9c1d8-7fdb-4c09-9a28-daab2bba5ca0.png)
 # Igor Bueno
 
 This profile is intended to be a portfolio, specialy to interviews and people interested in my projects. You can feel free to clone any project and contribute in them.
