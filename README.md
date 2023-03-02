@@ -1,16 +1,27 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/17251330/222299227-ab581c04-291b-458f-ae8e-5587b0d24f3c.png)
 
-<!--
-**IgorColetoBueno/IgorColetoBueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Igor Bueno
 
-Here are some ideas to get you started:
+This profile is intended to be a portfolio, specialy to interviews and people interested in my projects. You can feel free to clone any project and contribute in them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hard Skills
+
+- .NET (Framework, Core and current versions)
+- React.js (My primary competence)
+- Redux
+- Next.js
+- React Native
+- Node.js
+- Relational databases (SQL Server, PostgreSQL and others)
+- Non-relational databases (MongoDB)
+- CI/CD with Github Actions and AzureDevOps
+- SOLID
+- Clean code
+- Git
+- Git Flow/Trunk-based
+
+## Soft Skills
+
+- Feeling of belonging to the company
+- Leadership
+- Communication
