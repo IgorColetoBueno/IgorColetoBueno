@@ -66,3 +66,8 @@ I worked as Project Manager and .NET and React developer
 **Technical Course - Computer Technician**
 > 2014 - 2016
 
+## Languages
+
+- Portuguese - **Native**
+- English - **B2**
+- Spanish - **B1**
