@@ -3,19 +3,19 @@
 
 > https://www.linkedin.com/in/igor-bueno-ab5712122/
 
-I am software developer for 7 years, passionate about technology and the web as a whole. My professional goal is work in international projects and become a reference professional in the IT scenario.
+I am a software developer for 7 years, passionate about technology and the web as a whole. My professional goal is to work on international projects and become a reference professional in the IT scenario.
 
 ## Hard Skills
 
-- .NET (Framework, Core and current versions)
+- .NET (Framework, Core, and current versions)
 - React.js (My primary competence)
 - Redux
 - Next.js
 - React Native
 - Node.js
-- Relational databases (SQL Server, PostgreSQL and others)
+- Relational databases (SQL Server, PostgreSQL, and others)
 - Non-relational databases (MongoDB)
-- CI/CD with Github Actions and AzureDevOps
+- CI/CD with GitHub Actions and AzureDevOps
 - SOLID
 - Clean code
 - Git
@@ -55,7 +55,7 @@ I worked as Project Manager and .NET and React developer
 
 > Skills: Redux.js · SASS · .NET Web API · JavaScript · React.js · React Native
 
-I worked as .NET, React.js and React Native developer
+I worked as .NET, React.js, and React Native developer
 
 ## Education
 
@@ -65,7 +65,7 @@ I worked as .NET, React.js and React Native developer
 
 I worked as Project Manager and .NET and React developer
 
-### IFRO (Federal Institute of Education, Science and Technology of Rondônia)
+### IFRO (Federal Institute of Education, Science, and Technology of Rondônia)
 **Technical Course - Computer Technician**
 > 2014 - 2016
 
