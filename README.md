@@ -1,4 +1,7 @@
 # Igor Bueno
+> https://github.com/IgorColetoBueno
+
+> https://www.linkedin.com/in/igor-bueno-ab5712122/
 
 I am software developer for 7 years, passionate about technology and the web as a whole. My professional goal is work in international projects and become a reference professional in the IT scenario.
 
