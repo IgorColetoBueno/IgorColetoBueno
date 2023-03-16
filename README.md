@@ -28,6 +28,8 @@ I am a software developer for 7 years, passionate about technology and the web a
 - Strong communication
 - Responsibility
 - Constant evolution
+- Mentally strong
+- Experienced with troubled projects
 
 ## Job experiences
 
