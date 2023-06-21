@@ -11,7 +11,7 @@ I am a software developer for 7 years, passionate about technology and the web a
 - React.js (My primary competence)
 - Redux
 - Next.js
-- React Native
+- React Native (My primary competence)
 - Node.js
 - Relational databases (SQL Server, PostgreSQL, and others)
 - Non-relational databases (MongoDB)
@@ -33,13 +33,22 @@ I am a software developer for 7 years, passionate about technology and the web a
 
 ## Job experiences
 
+### DBC · Full-time
+**React Native Engineer**
+> April 2023 - Present · 3 Months
+
+> Skills: Expo · React Native · GraphQL · API REST · Typescript
+
+I worked on an international financial project allocated in Concepta. The project was developed in React Native with Expo and uses GraphQL.
+
+---
 ### Foursys · Full-time
 **React Engineer**
 > Apr 2022 - Present · 1 yr
 
 > Skills: Redux.js · Next.js · SASS · Docker · API REST · JavaScript · React.js
 
-I am working as React.js developer
+I worked as React.js developer allocated to a Siemens Healthineers project using cutting-edge React technologies
 
 ---
 ### Alpha Software · Full-time
