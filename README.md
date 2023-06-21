@@ -83,5 +83,5 @@ I worked as Project Manager and .NET and React developer
 ## Languages
 
 - Portuguese - **Native**
-- English - **A1**
+- English - **C1**
 - Spanish - **B1**
