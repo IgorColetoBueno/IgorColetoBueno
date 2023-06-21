@@ -44,7 +44,7 @@ I worked on an international financial project allocated in Concepta. The projec
 ---
 ### Foursys · Full-time
 **React Engineer**
-> Apr 2022 - Present · 1 yr
+> Apr 2022 - Apr 2023 · 1 yr
 
 > Skills: Redux.js · Next.js · SASS · Docker · API REST · JavaScript · React.js
 
@@ -83,5 +83,5 @@ I worked as Project Manager and .NET and React developer
 ## Languages
 
 - Portuguese - **Native**
-- English - **B2**
+- English - **A1**
 - Spanish - **B1**
