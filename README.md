@@ -35,11 +35,11 @@ I am a software developer for 7 years, passionate about technology and the web a
 
 ### DBC · Full-time
 **React Native Engineer**
-> April 2023 - Present · 3 Months
+> April 2023 - Present · 4 Months
 
 > Skills: Expo · React Native · GraphQL · API REST · Typescript
 
-I worked on an international financial project allocated in Concepta. The project was developed in React Native with Expo and uses GraphQL.
+I worked on an international financial project allocated to Concepta Tech. The project was developed in React Native with Expo and uses GraphQL and other cutting-edge tools.
 
 ---
 ### Foursys · Full-time
@@ -48,7 +48,7 @@ I worked on an international financial project allocated in Concepta. The projec
 
 > Skills: Redux.js · Next.js · SASS · Docker · API REST · JavaScript · React.js
 
-I worked as React.js developer allocated to a Siemens Healthineers project using cutting-edge React technologies
+I worked as a React.js developer allocated to a Siemens Healthineers project using cutting-edge React technologies
 
 ---
 ### Alpha Software · Full-time
