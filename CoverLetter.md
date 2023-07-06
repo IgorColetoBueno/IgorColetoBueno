@@ -1,30 +1,21 @@
 ## Dear Hiring Manager,
 
-I am excited to apply for the software developer position at your company. As a passionate and experienced software developer for 7 years, I am confident that my skills and experience 
-make me an ideal candidate for the role.
+I am excited to apply for the software developer position at your company. With seven years of experience in software development and a strong passion for technology, I am confident in my ability to contribute to international projects and become a valuable asset to your team.
 
-My hard skills include expertise in .NET (Framework, Core, and current versions), React.js (my primary competence), Redux, Next.js, React Native, Node.js, 
-and both relational and non-relational databases, among others. I am also experienced in CI/CD with GitHub Actions and AzureDevOps, as well as SOLID, 
-Clean Code, and Git Flow/Trunk-based.
+In my previous roles, I have gained extensive experience in various technologies and frameworks. At DBC, as a React Native Engineer, I have successfully worked on an international financial project allocated to Concepta Tech. Utilizing cutting-edge tools such as Expo, React Native, GraphQL, and TypeScript, I have played a key role in developing the project for the past four months.
 
-In addition to my hard skills, my soft skills are also a great asset. I have a strong sense of belonging to the company, am a natural leader, and possess excellent 
-communication skills. I am responsible, always striving for constant evolution, and mentally strong, with experience handling troubled projects.
+Prior to that, as a React Engineer at Foursys, I contributed to a Siemens Healthineers project, where I gained proficiency in Redux.js, Next.js, SASS, Docker, API REST, JavaScript, and React.js. These experiences have strengthened my ability to develop robust and scalable web applications.
 
-I have previously worked at Foursys and Alpha Software as a React Engineer and Project Manager and developer, respectively, where I gained experience in Redux.js, 
-SASS, .NET Web API, JavaScript, React.js, and React Native. 
+During my tenure as a Project Manager and developer at Alpha Software, I worked on various projects, utilizing Redux.js, SASS, .NET Web API, JavaScript, React.js, and React Native. These opportunities allowed me to enhance my skills in project management, while also honing my technical expertise.
 
-I have also received education and training at IFRO (Federal Institute of Education, Science and Technology of Rondônia), where I obtained my Technologist - 
-System Analist degree and my Technical Course - Computer Technician certification.
+In terms of education, I hold a Technologist degree in System Analysis from the Federal Institute of Education, Science, and Technology of Rondônia (IFRO). This program provided me with a strong foundation in software development principles and practices.
 
-I am a Portuguese native speaker and I have the English B2 level and Spanish B1 level.
+I am proficient in multiple languages, including Portuguese (native), English (C1), and Spanish (B1), enabling me to effectively communicate and collaborate in diverse professional environments.
 
-Thank you for considering my application. I look forward to the opportunity to contribute to your team and help your company achieve its goals.
+I am confident that my technical expertise and extensive experience in software development make me a strong candidate for this position. I am eager to contribute my skills and dedication to producing high-quality software solutions that meet your company's objectives.
+
+Thank you for considering my application. I have attached my resume for your review, and I would welcome the opportunity to discuss how my qualifications align with your company's needs in more detail.
 
 Sincerely,
 
 Igor Bueno
-
-
-
-
-
