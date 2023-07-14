@@ -11,6 +11,8 @@ I am a software developer for 7 years, passionate about technology and the web a
 ## Hard Skills
 
 - .NET (Framework, Core, and current versions)
+- Javascript
+- Typescript
 - React.js (My primary competence)
 - Redux
 - Next.js
