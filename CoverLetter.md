@@ -1,21 +1,24 @@
 ## Dear Hiring Manager,
 
-I am excited to apply for the software developer position at your company. With seven years of experience in software development and a strong passion for technology, I am confident in my ability to contribute to international projects and become a valuable asset to your team.
+I am writing to express my interest in the software development position at your company. With 7 years of experience as a software developer, I am highly passionate about technology and the web. My professional goal is to work on international projects and become a reference professional in the IT scenario.
 
-In my previous roles, I have gained extensive experience in various technologies and frameworks. At DBC, as a React Native Engineer, I have successfully worked on an international financial project allocated to Concepta Tech. Utilizing cutting-edge tools such as Expo, React Native, GraphQL, and TypeScript, I have played a key role in developing the project for the past four months.
+I possess a range of valuable hard skills, including expertise in .NET (Framework, Core, and current versions), Javascript, Typescript, React.js, Redux, Next.js, React Native, Node.js, relational databases (SQL Server, PostgreSQL, and others), GraphQL, non-relational databases (MongoDB), CI/CD with GitHub Actions and AzureDevOps, SOLID principles, clean code practices, and Git.
 
-Prior to that, as a React Engineer at Foursys, I contributed to a Siemens Healthineers project, where I gained proficiency in Redux.js, Next.js, SASS, Docker, API REST, JavaScript, and React.js. These experiences have strengthened my ability to develop robust and scalable web applications.
+In addition to my technical skills, I have developed strong soft skills, including a sense of belonging, leadership abilities, excellent communication skills, responsibility, constant evolution, and the ability to work on troubled projects.
 
-During my tenure as a Project Manager and developer at Alpha Software, I worked on various projects, utilizing Redux.js, SASS, .NET Web API, JavaScript, React.js, and React Native. These opportunities allowed me to enhance my skills in project management, while also honing my technical expertise.
+I have a track record of successful projects, including:
 
-In terms of education, I hold a Technologist degree in System Analysis from the Federal Institute of Education, Science, and Technology of Rondônia (IFRO). This program provided me with a strong foundation in software development principles and practices.
+- Developing a React Native app for a financial sector client, adhering to compliance requirements and incorporating a comprehensive 2FA authentication system.
 
-I am proficient in multiple languages, including Portuguese (native), English (C1), and Spanish (B1), enabling me to effectively communicate and collaborate in diverse professional environments.
+- Creating a customizable eHealth software module in React.js, enabling medical data queries, visualization, and reporting.
 
-I am confident that my technical expertise and extensive experience in software development make me a strong candidate for this position. I am eager to contribute my skills and dedication to producing high-quality software solutions that meet your company's objectives.
+- Contributing to the development of a web application for travel plans using Next.js and React, similar to Expedia and Booking.
 
-Thank you for considering my application. I have attached my resume for your review, and I would welcome the opportunity to discuss how my qualifications align with your company's needs in more detail.
+- Managing and developing projects at Alpha Software, including a mobile sales app, web systems for warehouse control and livestock management, and the company's institutional website.
+
+I hold a Technologist degree in System Analysis from the Federal Institute of Education, Science, and Technology of Rondônia (IFRO), and I am proficient in Portuguese (native), English (C1 level), and Spanish (B2 level).
+
+I am excited about the opportunity to join your team and contribute my skills and expertise to your organization. Thank you for considering my application. I look forward to discussing how I can contribute to your company's success.
 
 Sincerely,
-
 Igor Bueno
