@@ -86,8 +86,6 @@ I worked as a Full Stack developer on the following projects:
 **Technologist - System Analist**
 > Feb 2017 - Dec 2019
 
-I worked as Project Manager and .NET and React developer
-
 ### IFRO (Federal Institute of Education, Science, and Technology of Rondônia)
 **Technical Course - Computer Technician**
 > 2014 - 2016
