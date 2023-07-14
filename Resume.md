@@ -1,7 +1,8 @@
 # Igor Bueno
-> https://github.com/IgorColetoBueno
 
 > igor.mcbueno@gmail.com
+
+> https://github.com/IgorColetoBueno
 
 > https://www.linkedin.com/in/igor-bueno-ab5712122/
 
