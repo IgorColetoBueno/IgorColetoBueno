@@ -1,11 +1,11 @@
 <table>
   <tr>
     <td valign="center">
-      🎓 I am a systems analysis technologist who graduated in 2019 from the Federal Institute of Education and Science and Technology of Rondônia
-      🌱 I am currently working on React and React Native projects.
-      🎯 My Goal is to continue working on bigger and more challenging projects.
-      ✨ I love to see my hard work transformed into good quality products.
-<td valign="center">
+      <p>🎓 I am a systems analysis technologist who graduated in 2019 from the Federal Institute of Education and Science and Technology of Rondônia</p>
+      <p>🌱 I am currently working on React and React Native projects.</p>
+      <p>🎯 My Goal is to continue working on bigger and more challenging projects.</p>
+      <p>✨ I love to see my hard work transformed into good quality products.</p>
+<td width="250" valign="center">
   My personal public projects:
   <ul>
     <li>
