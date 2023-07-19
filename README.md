@@ -5,7 +5,8 @@
       <p>🌱 I am currently working on React and React Native projects.</p>
       <p>🎯 My Goal is to continue working on bigger and more challenging projects.</p>
       <p>✨ I love to see my hard work transformed into good quality products.</p>
-      <p>Resume: <a href="https://github.com/IgorColetoBueno/IgorColetoBueno/blob/main/Resume.md" target="__blank">here</a></p>
+      <p><a href="https://github.com/IgorColetoBueno/IgorColetoBueno/blob/main/Resume.md" target="__blank">Resume</a></p>
+      <p><a href="https://github.com/IgorColetoBueno/IgorColetoBueno/blob/main/CoverLetter.md" target="__blank">Cover Letter</a></p>
     </td>
     <td width="250" valign="center">
       My personal public projects:
