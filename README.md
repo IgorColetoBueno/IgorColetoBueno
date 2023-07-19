@@ -5,17 +5,17 @@
       <p>🌱 I am currently working on React and React Native projects.</p>
       <p>🎯 My Goal is to continue working on bigger and more challenging projects.</p>
       <p>✨ I love to see my hard work transformed into good quality products.</p>
-      <p><a href="https://github.com/IgorColetoBueno/IgorColetoBueno/blob/main/Resume.md" target="__blank">Resume</a></p>
-      <p><a href="https://github.com/IgorColetoBueno/IgorColetoBueno/blob/main/CoverLetter.md" target="__blank">Cover Letter</a></p>
+      <p><a href="https://github.com/IgorColetoBueno/IgorColetoBueno/blob/main/Resume.md" target="_blank">Resume</a></p>
+      <p><a href="https://github.com/IgorColetoBueno/IgorColetoBueno/blob/main/CoverLetter.md" target="_blank">Cover Letter</a></p>
     </td>
     <td width="250" valign="center">
       My personal public projects:
       <ul>
         <li>
-          <a href="https://data-flow-tool.vercel.app/" target="__blank">Data Flow Tool - A JSON Array processor</a>
+          <a href="https://data-flow-tool.vercel.app/" target="_blank">Data Flow Tool - A JSON Array processor</a>
         </li>
         <li>
-          <a href="https://madams-charm.vercel.app" target="__blank">Madams Charm - A underwear catalog</a>
+          <a href="https://madams-charm.vercel.app" target="_blank">Madams Charm - A underwear catalog</a>
         </li>
       </ul> 
     </td>    
