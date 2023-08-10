@@ -10,8 +10,6 @@ I am a software developer for 7 years, passionate about technology and the web a
 
 ## Hard Skills
 
-Sure, I can help you sort this list based on the years of experience you have with each technology or concept:
-
 - Git - 7 years
 - Javascript - 7 years
 - Typescript - 5 years
