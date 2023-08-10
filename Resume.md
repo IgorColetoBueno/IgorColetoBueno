@@ -10,22 +10,32 @@ I am a software developer for 7 years, passionate about technology and the web a
 
 ## Hard Skills
 
-- .NET (Framework, Core, and current versions)
-- Javascript
-- Typescript
-- React.js (My primary competence)
-- Redux
-- Next.js
-- React Native (My primary competence)
-- Node.js
-- Relational databases (SQL Server, PostgreSQL, and others)
-- GraphQL
-- Non-relational databases (MongoDB)
-- CI/CD with GitHub Actions and AzureDevOps
-- SOLID
-- Clean code
-- Git
-- Git Flow/Trunk-based
+Sure, I can help you sort this list based on the years of experience you have with each technology or concept:
+
+- Git - 7 years
+- Javascript - 7 years
+- Typescript - 5 years
+- React.js (My primary competence) - 5 years
+- Git Flow/Trunk-based - 5 years
+- Redux - 5 years
+- React Componentization Principle - 5 years
+- Relational databases (SQL Server, PostgreSQL, and others) - 5 years
+- .NET (Framework, Core, and current versions) - 4 years
+- React Native (My primary competence) - 4 years
+- Expo - 4 years
+- React Navigation - 4 years
+- Styled Components - 4 years
+- React Hooks - 4 years
+- Node.js - 3 years
+- SOLID - 3 years
+- Clean code - 3 years
+- Jest and React Testing Library - 2 years
+- Modularization and Code Splitting - 2 years
+- Non-relational databases (MongoDB) - 2 years
+- CI/CD with GitHub Actions and AzureDevOps - 2 years
+- GraphQL - 1 year
+- Firebase - 1 year
+- Next.js - 1 year
 
 ## Soft Skills
 
@@ -41,7 +51,7 @@ I am a software developer for 7 years, passionate about technology and the web a
 
 ### DBC · Full-time
 **React Native Engineer**
-> April 2023 - Present · 4 Months
+> April 2023 - Present · 5 Months
 
 > Skills: FinTech · expo · English · 2FA · React navigation · GraphQL · React Hooks · TypeScript · React Native
 
