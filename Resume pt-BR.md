@@ -8,9 +8,7 @@
 
 Sou um desenvolvedor de software há 7 anos, apaixonado por tecnologia e pela web como um todo. Meu objetivo profissional é trabalhar em projetos internacionais e me tornar um profissional de referência no cenário de TI.
 
-## Habilidades Técnicas
-
-Claro, posso ajudar você a ordenar esta lista com base nos anos de experiência que você tem com cada tecnologia ou conceito:
+## Habilidades Técnicas (Hard Skills)
 
 - Git - 7 anos
 - Javascript - 7 anos
@@ -28,9 +26,9 @@ Claro, posso ajudar você a ordenar esta lista com base nos anos de experiência
 - React Hooks - 4 anos
 - Node.js - 3 anos
 - SOLID - 3 anos
-- Código Limpo - 3 anos
+- Clean Code - 3 anos
 - Jest e React Testing Library - 2 anos
-- Modularização e Divisão de Código - 2 anos
+- Modularização e Code Splitting - 2 anos
 - Bancos de dados não relacionais (MongoDB) - 2 anos
 - CI/CD com GitHub Actions e AzureDevOps - 2 anos
 - GraphQL - 1 ano
@@ -45,24 +43,24 @@ Claro, posso ajudar você a ordenar esta lista com base nos anos de experiência
 - Responsabilidade
 - Evolução constante
 - Mentalmente resiliente
-- Experiência com projetos desafiadores
+- Experiência com projetos em crise
 
 ## Experiências Profissionais
 
 ### DBC · Período Integral
-**Engenheiro React Native**
+**Desenvolvedor React Native Sênior**
 > Abril de 2023 - Presente · 5 Meses
 
-> Habilidades: FinTech · expo · Inglês · 2FA · Navegação React · GraphQL · React Hooks · TypeScript · React Native
+> Habilidades: FinTech · Expo · Inglês · 2FA · React Navigation · GraphQL · React Hooks · TypeScript · React Native
 
 Alocado no cliente Concepta Tech, trabalhei com uma equipe de 5 desenvolvedores em um aplicativo Android e iOS criado com React Native e Expo para o cliente final chamado Guideline, no setor financeiro. A aplicação consiste em uma ferramenta para informar contribuições, selecionar portfólios, visualizar movimentos e relatórios, além de autenticação completa de 2FA. A aplicação foi rigorosa em termos de conformidade com valores monetários e validações de layout e operação pelas equipes de design e QA. A aplicação utiliza GraphQL para busca de dados. Este foi meu primeiro projeto para uma empresa internacional, onde melhorei bastante meu nível de inglês.
 
 ---
 ### Foursys · Período Integral
-**Engenheiro React**
+**Desenvolvedor React Sênior**
 > Abril de 2022 - Abril de 2023 · 1 ano
 
-> Habilidades: Saúde · Redux.js · Next.js · SASS · Docker · API REST · JavaScript · React.js · TypeScript
+> Habilidades: Healthcare Software · Redux.js · Next.js · SASS · Docker · API REST · JavaScript · React.js · TypeScript
 
 Trabalhei como desenvolvedor React.js alocado nos projetos Siemens Healthineers e WE Travel:
 
@@ -71,10 +69,10 @@ Trabalhei como desenvolvedor React.js alocado nos projetos Siemens Healthineers 
 
 ---
 ### Alpha Software · Período Integral
-**Gerente de Projeto e Desenvolvedor**
+**Gerente de Projetos e Desenvolvedor**
 > Junho de 2019 - Março de 2022 · 2 anos e 11 meses
 
-> Habilidades: Azure DevOps Services · .NET Core · React.js · React Hooks · .NET 6 · React Native · Microsoft SQL Server · PostgreSQL
+> Habilidades: Azure DevOps Services · .NET Core · React.js · React Hooks · .NET 6 · React Native · Microsoft SQL Server · PostgreSQL · Styled Components
 
 Trabalhei como gerente de desenvolvimento de projetos, bem como desenvolvedor .NET e React nos seguintes projetos:
 
@@ -90,7 +88,7 @@ Trabalhei como gerente de desenvolvimento de projetos, bem como desenvolvedor .N
 
  Maio de 2016 - Maio de 2019 · 3 anos e 2 meses
 
-> Habilidades: ASP.NET MVC · Azure DevOps Services · .NET Core · React.js · TypeScript · React Native · Microsoft SQL Server · PostgreSQL
+> Habilidades: ASP.NET MVC · Azure DevOps Services · .NET Core · React.js · TypeScript · React Native · Microsoft SQL Server · PostgreSQL · Styled Components
 
 Trabalhei como desenvolvedor Full Stack nos seguintes projetos:
 - Aplicativo móvel e API de coleta de resíduos: Aplicativo React Native e Expo foram desenvolvidos para registrar coletas de resíduos em clientes e também tentativas de coleta integradas ao software ERP Alpha Express. O aplicativo usa uma API REST construída com .NET 3.1 para persistir dados e lidar com autenticação. O banco de dados usado foi o SQL Server.
