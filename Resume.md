@@ -6,7 +6,7 @@
 
 > https://www.linkedin.com/in/igor-bueno-ab5712122/
 
-I am a software developer for 7 years, passionate about technology and the web as a whole. My professional goal is to work on international projects and become a reference professional in the IT scenario.
+I've been a software developer for 7 years, passionate about technology and solving problems. Focused on the bases, concepts and foundations of technology, my goal is to continue building a solid career and become a reference in the scenario
 
 ## Hard Skills
 
@@ -27,6 +27,8 @@ I am a software developer for 7 years, passionate about technology and the web a
 - Node.js - 3 years
 - SOLID - 3 years
 - Clean code - 3 years
+- Java - 2 years
+- Android (Java) - 2 years
 - Jest and React Testing Library - 2 years
 - Modularization and Code Splitting - 2 years
 - Non-relational databases (MongoDB) - 2 years
@@ -106,5 +108,5 @@ I worked as a Full Stack developer on the following projects:
 ## Languages
 
 - Portuguese - **Native**
-- English - **C1**
-- Spanish - **B2**
+- English - **B2**
+- Spanish - **B1**
