@@ -6,7 +6,7 @@
 
 > https://www.linkedin.com/in/igor-bueno-ab5712122/
 
-Sou um desenvolvedor de software há 7 anos, apaixonado por tecnologia e pela web como um todo. Meu objetivo profissional é trabalhar em projetos internacionais e me tornar um profissional de referência no cenário de TI.
+Sou um desenvolvedor de software há 7 anos, apaixonado por tecnologia e por resolver problemas. Focado nas bases, nos conceitos e nos alicerces da tecnologia meu objetivo é continuar construindo uma carreira sólida e me tornar uma referência no cenário
 
 ## Habilidades Técnicas (Hard Skills)
 
@@ -27,6 +27,8 @@ Sou um desenvolvedor de software há 7 anos, apaixonado por tecnologia e pela we
 - Node.js - 3 anos
 - SOLID - 3 anos
 - Clean Code - 3 anos
+- Java - 2 anos
+- Android (Java) - 2 anos
 - Jest e React Testing Library - 2 anos
 - Modularização e Code Splitting - 2 anos
 - Bancos de dados não relacionais (MongoDB) - 2 anos
@@ -108,5 +110,5 @@ Trabalhei como desenvolvedor Full Stack nos seguintes projetos:
 ## Idiomas
 
 - Português - **Nativo**
-- Inglês - **C1**
-- Espanhol - **B2**
+- Inglês - **B2**
+- Espanhol - **B1**
