@@ -6,35 +6,26 @@
 
 > https://www.linkedin.com/in/igor-bueno-ab5712122/
 
-I've been a software developer for 7 years, passionate about technology and solving problems. Focused on the bases, concepts and foundations of technology, my goal is to continue building a solid career and become a reference in the scenario
+I've been a software developer for 8 years, passionate about technology and solving problems. Focused on the bases, concepts and foundations of technology, my goal is continue building a solid career and become a reference in the scenario
 
 ## Hard Skills
 
-- Git - 7 years
-- Javascript - 7 years
-- Typescript - 5 years
-- React.js (My primary competence) - 5 years
-- Git Flow/Trunk-based - 5 years
-- Redux - 5 years
-- React Componentization Principle - 5 years
-- Relational databases (SQL Server, PostgreSQL, and others) - 5 years
-- .NET (Framework, Core, and current versions) - 4 years
-- React Native (My primary competence) - 4 years
-- Expo - 4 years
-- React Navigation - 4 years
-- Styled Components - 4 years
-- React Hooks - 4 years
+- Git - 8 years
+- Javascript - 8 years
+- Typescript - 6 years
+- React.js (My primary competence) - 6 years
+- Redux - 6 years
+- Relational databases (SQL Server, PostgreSQL, and others) - 7 years
+- .NET (Framework, Core, and current versions) - 5 years
+- React Native (My primary competence) - 6 years
+- Expo Platform and tools - 4 years
 - Node.js - 3 years
-- SOLID - 3 years
-- Clean code - 3 years
 - Java - 2 years
 - Android (Java) - 2 years
-- Jest and React Testing Library - 2 years
-- Modularization and Code Splitting - 2 years
-- Non-relational databases (MongoDB) - 2 years
+- Unit tests for frontend and mobile - 3 years
+- Non-relational databases (MongoDB) - 4 years
 - CI/CD with GitHub Actions and AzureDevOps - 2 years
-- GraphQL - 1 year
-- Firebase - 1 year
+- GraphQL - 2 years
 - Next.js - 1 year
 
 ## Soft Skills
@@ -51,11 +42,11 @@ I've been a software developer for 7 years, passionate about technology and solv
 
 ### DBC · Full-time
 **React Native Engineer**
-> April 2023 - Present · 5 Months
+> April 2023 - August 2023 · 5 Months
 
-> Skills: FinTech · expo · English · 2FA · React navigation · GraphQL · React Hooks · TypeScript · React Native
+> Skills: FinTech · Expo · English B2 · 2FA · GraphQL · TypeScript · React Native
 
-Allocated at the Concepta Tech client, I worked with a team of 5 developers on an Android and iOS app created with React Native and Expo for the end client called Guideline in the financial sector. The application consists of a tool to inform contributions, select portfolios, view movements, and report in addition to a complete 2FA authentication. The application was very rigorous in terms of compliance with monetary values ​​and layout and operation validations by the design and QA teams. The application uses GraphQL for data search. This was my first project for an international company, where I improved my English level a lot.
+Allocated at the Concepta Tech client, I worked with a team of 5 developers in a React Native application. It was a rich experience because the project was about a Fin-Tech app, so the level of exigence was huge and the charge for clean code, within the principles of clean architecture, SOLID, test coverage helped me to consolidate the knowledge I already had. 
 
 ---
 ### Foursys · Full-time
@@ -66,8 +57,7 @@ Allocated at the Concepta Tech client, I worked with a team of 5 developers on a
 
 I worked as a React.js developer allocated to Siemens Healthineers and WE Travel projects:
 
-- eHealthScreenModules Web System: Allocated in the Siemens Healthineers client, I created the entire frontend application in React.js of an eHealth software module, which aims to create fully customizable boards to include data view boards that support medical data queries, receive raw data, and convert them into relevant information to be transformed into graphs, reports, and indicators. The system has an IT view where the user is able to create a board from scratch and include data views using drag and drop and configuring queries. After configuring all the data views, the board is ready to be used by doctors. The physician's view allows the user to select boards and filter patients to display data and obtain results that help in decision-making.
-- WE Travel System: Web application created using Next.js and React with the current focus as an e-Commerce for travel plans (Similar to Expedia and Booking). The application was not finalized due to cancellation due to negotiation issues, but the front end was practically finalized.
+Allocated in the Siemens Healthineers client, I created the entire frontend application in React.js. The application is similar to Power BI, where the user has flexibility to create custom boards and create custom reports. To do that I have implemented a complex state management, specific UI following the Siemens Healthineers design system and followed specific healthcare standards such as FHIR.
 
 ---
 ### Alpha Software · Full-time
@@ -109,4 +99,4 @@ I worked as a Full Stack developer on the following projects:
 
 - Portuguese - **Native**
 - English - **B2**
-- Spanish - **B1**
+- Spanish - **B2**
