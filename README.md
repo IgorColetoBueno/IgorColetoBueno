@@ -17,9 +17,6 @@
         <li>
           <a href="https://react-algorithms.vercel.app" target="_blank">React Algorithms - A algorithms application wrote in React (In development yet)</a>
         </li>
-        <li>
-          <a href="https://madams-charm.vercel.app" target="_blank">Madams Charm - A underwear catalog</a>
-        </li>
       </ul> 
     </td>    
   </tr>
