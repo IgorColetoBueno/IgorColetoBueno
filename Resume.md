@@ -46,7 +46,7 @@ I've been a software developer for 8 years, passionate about technology and solv
 
 > Skills: e-Commerce · GraphQL · TypeScript · React Native · Node.js · Observability · BFF · Deeplinking · Push notifications
 
-Allocated at RD Group, I work in the mobile engineering team acting on the core App and BFF demands of the Drogasil and Drogaraia applications, both of which have millions of downloads in the application stores. Also, I work in dependencies upgrades, application governance, evangelizing other teams about clean architecture, SOLID, clean code, good practices, and helping product teams with solution designs and critical bugs.
+Allocated at RaiaDrogasil, I work in the mobile engineering team acting on the core App and BFF demands of the Drogasil and Drogaraia applications, both of which have millions of downloads in the application stores. Also, I work in dependencies upgrades, application governance, evangelizing other teams about clean architecture, SOLID, clean code, and good practices, and helping product teams with solution designs and critical bugs.
 
 ### DBC · Full-time
 **React Native Engineer**
