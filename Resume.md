@@ -41,7 +41,7 @@ I've been a software developer for 8 years, passionate about technology and solv
 ## Job experiences
 
 ### Develcode · Full-time
-**React Native Engineer**
+**Staff Mobile Engineer**
 > September 2023 - Present · 9 Months
 
 > Skills: e-Commerce · GraphQL · TypeScript · React Native · Node.js · Observability · BFF · Deeplinking · Push notifications
@@ -49,7 +49,7 @@ I've been a software developer for 8 years, passionate about technology and solv
 Allocated at RaiaDrogasil, I work in the mobile engineering team acting on the core App and BFF demands of the Drogasil and Drogaraia applications, both of which have millions of downloads in the application stores. Also, I work in dependencies upgrades, application governance, evangelizing other teams about clean architecture, SOLID, clean code, and good practices, and helping product teams with solution designs and critical bugs.
 
 ### DBC · Full-time
-**React Native Engineer**
+**Senior Mobile Engineer**
 > April 2023 - August 2023 · 5 Months
 
 > Skills: FinTech · Expo · English B2 · 2FA · GraphQL · TypeScript · React Native · Unit Tests
@@ -58,7 +58,7 @@ Allocated at the Concepta Tech client, I worked with a team of 5 developers in a
 
 ---
 ### Foursys · Full-time
-**Staff Engineer**
+**Senior Engineer**
 > Apr 2022 - Apr 2023 · 1 yr
 
 > Skills: Healthcare · Redux.js · Next.js · SASS · Docker · API REST · JavaScript · React.js · TypeScript · Unit Tests
