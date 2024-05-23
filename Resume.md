@@ -83,7 +83,7 @@ I worked as a project development manager, as well as a .NET and React developer
 
 ---
 ### Alpha Software · Full-time
-**React Engineer**
+**Software Engineer**
 > May 2016 - May 2019 · 3 yrs 2 mos
 
 > Skills: ASP.NET MVC · Azure DevOps Services · .NET Core · React.js · TypeScript · React Native · Microsoft SQL Server · PostgreSQL
