@@ -58,7 +58,7 @@ Allocated at the Concepta Tech client, I worked with a team of 5 developers in a
 
 ---
 ### Foursys · Full-time
-**React Engineer**
+**Staff Engineer**
 > Apr 2022 - Apr 2023 · 1 yr
 
 > Skills: Healthcare · Redux.js · Next.js · SASS · Docker · API REST · JavaScript · React.js · TypeScript · Unit Tests
