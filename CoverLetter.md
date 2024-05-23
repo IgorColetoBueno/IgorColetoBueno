@@ -16,7 +16,7 @@ I have a track record of successful projects, including:
 
 - Managing and developing projects at Alpha Software, including a mobile sales app, web systems for warehouse control and livestock management, and the company's institutional website.
 
-I hold a Technologist degree in System Analysis from the Federal Institute of Education, Science, and Technology of Rondônia (IFRO), and I am proficient in Portuguese (native), English (C1 level), and Spanish (B2 level).
+I hold a Technologist degree in System Analysis from the Federal Institute of Education, Science, and Technology of Rondônia (IFRO), and I am proficient in Portuguese (native), English (B2 level), and Spanish (B2 level).
 
 I am excited about the opportunity to join your team and contribute my skills and expertise to your organization. Thank you for considering my application. I look forward to discussing how I can contribute to your company's success.
 
