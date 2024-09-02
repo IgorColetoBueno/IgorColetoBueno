@@ -12,10 +12,10 @@
       My personal public projects:
       <ul>
         <li>
-          <a href="https://data-flow-tool.vercel.app/" target="_blank">Data Flow Tool - A JSON Array processor</a>
+          <a href="https://data-flow-tool.vercel.app/" target="_blank">Web: Data Flow Tool - A JSON Array processor</a>
         </li>
         <li>
-          <a href="https://react-algorithms.vercel.app" target="_blank">React Algorithms - A algorithms application wrote in React (In development yet)</a>
+          <a href="https://react-algorithms.vercel.app" target="_blank">Web: React Algorithms - A algorithms application wrote in React (In development yet)</a>
         </li>
       </ul> 
     </td>    
