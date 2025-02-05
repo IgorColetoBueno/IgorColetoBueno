@@ -42,7 +42,7 @@ I've been a software developer for 8 years, passionate about technology and solv
 
 ### Develcode · Full-time
 **Staff Mobile Engineer**
-> September 2023 - Present · 9 Months
+> September 2023 - Present · 1 year and 5 Months
 
 > Skills: e-Commerce · GraphQL · TypeScript · React Native · Node.js · Observability · BFF · Deeplinking · Push notifications
 
