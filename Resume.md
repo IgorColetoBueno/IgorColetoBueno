@@ -40,11 +40,21 @@ I've been a software developer for 8 years, passionate about technology and solv
 
 ## Job experiences
 
+### Concepta Tech · Full-time
+**Senior Mobile Engineer**
+> April 2025 - Present · 3 Months
+
+> Skills: React Native · Deep Linking · Firebase
+
+I'm allocated to a US Fintech, where I maintain and develop complex features in a reward-based private retirement mobile app.
+
+Additionally, I'm responsible for reviewing colleagues' code, writing unit tests with 100% coverage, designing solutions to technical problems, and utilizing observability tools to ensure the application is functioning as expected.
+
 ### Develcode · Full-time
 **Staff Mobile Engineer**
-> September 2023 - Present · 1 year and 5 Months
+> September 2023 - March 2025 · 1 year and 6 Months
 
-> Skills: e-Commerce · GraphQL · TypeScript · React Native · Node.js · Observability · BFF · Deeplinking · Push notifications
+> Skills: e-Commerce · GraphQL · TypeScript · React Native · Node.js · Observability · BFF · Deep Linking · Push notifications
 
 Allocated at RaiaDrogasil, I work in the mobile engineering team acting on the core App and BFF demands of the Drogasil and Drogaraia applications, both of which have millions of downloads in the application stores. Also, I work in dependencies upgrades, application governance, evangelizing other teams about clean architecture, SOLID, clean code, and good practices, and helping product teams with solution designs and critical bugs.
 
