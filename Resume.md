@@ -10,22 +10,22 @@ I've been a software developer for 8 years, passionate about technology and solv
 
 ## Hard Skills
 
-- Git - 8 years
-- JavaScript - 8 years
-- Typescript - 6 years
-- React.js (My primary competence) - 6 years
+- Git - 10 years
+- JavaScript - 9 years
+- Typescript - 7 years
+- React.js (My primary competence) - 8 years
 - Redux - 6 years
 - Relational databases (SQL Server, PostgreSQL, and others) - 7 years
 - .NET (Framework, Core, and current versions) - 5 years
-- React Native (My primary competence) - 6 years
-- Expo Platform and tools - 4 years
-- Node.js - 3 years
+- React Native (My primary competence) - 7 years
+- Expo Platform and tools - 5 years
+- Node.js - 5 years
 - Java - 2 years
 - Android (Java) - 2 years
 - Unit tests for frontend and mobile - 3 years
 - Non-relational databases (MongoDB) - 4 years
 - CI/CD with GitHub Actions and AzureDevOps - 2 years
-- GraphQL - 2 years
+- GraphQL - 3 years
 - Next.js - 1 year
 
 ## Soft Skills
@@ -46,7 +46,7 @@ I've been a software developer for 8 years, passionate about technology and solv
 
 > Skills: React Native · Deep Linking · Firebase
 
-I'm allocated to a US Fintech, where I maintain and develop complex features in a reward-based private retirement mobile app.
+I'm assigned to a US Fintech Company, where I maintain and develop complex features in a reward-based private retirement mobile app.
 
 Additionally, I'm responsible for reviewing colleagues' code, writing unit tests with 100% coverage, designing solutions to technical problems, and utilizing observability tools to ensure the application is functioning as expected.
 
@@ -56,7 +56,7 @@ Additionally, I'm responsible for reviewing colleagues' code, writing unit tests
 
 > Skills: e-Commerce · GraphQL · TypeScript · React Native · Node.js · Observability · BFF · Deep Linking · Push notifications
 
-Allocated at RaiaDrogasil, I work in the mobile engineering team acting on the core App and BFF demands of the Drogasil and Drogaraia applications, both of which have millions of downloads in the application stores. Also, I work in dependencies upgrades, application governance, evangelizing other teams about clean architecture, SOLID, clean code, and good practices, and helping product teams with solution designs and critical bugs.
+Allocated at RaiaDrogasil, I work in the mobile engineering team, focusing on the core App and BFF demands of the Drogasil and Drogaraia applications, both of which have millions of downloads in the app stores. Also, I work on dependency upgrades, application governance, evangelizing other teams about clean architecture, SOLID, clean code, and good practices, and helping product teams with solution designs and critical bugs.
 
 ### DBC · Full-time
 **Senior Mobile Engineer**
@@ -64,7 +64,7 @@ Allocated at RaiaDrogasil, I work in the mobile engineering team acting on the c
 
 > Skills: FinTech · Expo · English B2 · 2FA · GraphQL · TypeScript · React Native · Unit Tests
 
-Allocated at the Concepta Tech client, I worked with a team of 5 developers in a React Native application. It was a rich experience because the project was about a Fin-Tech app, so the level of exigence was huge and the charge for clean code, within the principles of clean architecture, SOLID, and test coverage helped me to consolidate the knowledge I already had. 
+Allocated at the Concepta Tech client, I worked with a team of 5 developers on a React Native application. It was a rich experience because the project was about a Fin-Tech app, so the level of exigence was huge, and the charge for clean code, within the principles of clean architecture, SOLID, and test coverage, helped me to consolidate the knowledge I already had. 
 
 ---
 ### Foursys · Full-time
@@ -75,7 +75,7 @@ Allocated at the Concepta Tech client, I worked with a team of 5 developers in a
 
 I worked as a React.js developer allocated to Siemens Healthineers and WE Travel projects:
 
-Allocated in the Siemens Healthineers client, I created the entire front-end application in React.js. The application is similar to Power BI, where the user has the flexibility to create custom boards and create custom reports. To do that I have implemented a complex state management, specific UI following the Siemens Healthineers design system and followed specific healthcare standards such as FHIR.
+Allocated to the Siemens Healthineers client, I created the entire front-end application in React.js. The application is similar to Power BI, where the user has the flexibility to create custom boards and create custom reports. To do that, I have implemented a complex state management, specific UI following the Siemens Healthineers design system, and followed specific healthcare standards such as FHIR.
 
 ---
 ### Alpha Software · Full-time
@@ -99,7 +99,7 @@ I worked as a project development manager, as well as a .NET and React developer
 > Skills: ASP.NET MVC · Azure DevOps Services · .NET Core · React.js · TypeScript · React Native · Microsoft SQL Server · PostgreSQL
 
 I worked as a full-stack developer on the following projects:
-- Mobile application and waste collection API: App React Native and Expo were developed to register waste collections at customers and also collection attempts integrated with the ERP Alpha Express software. The app uses a REST API built with .NET 3.1 to persist data and handle authentication. The database used was SQL Server;
+- Mobile application and waste collection API: App React Native and Expo were developed to register waste collections at customers, and also collection attempts were integrated with the ERP Alpha Express software. The app uses a REST API built with .NET 3.1 to persist data and handle authentication. The database used was SQL Server.
 - Web system and API for vehicle checklists: Software in ASP.NET Web Pages to launch truck inspection forms, analytical reports, general registrations, and authentication. The web application uses a REST API built with .NET 5 to persist data and handle authentication. The database used was SQL Server.
 - Web system for employee evaluations in ASP.NET Web Pages to launch self-evaluation forms, analytical reports, general registrations, and authentication. The web application uses a REST API built with .NET 5 to persist data and handle authentication. The database used was SQL Server.
 
@@ -116,5 +116,5 @@ I worked as a full-stack developer on the following projects:
 ## Languages
 
 - Portuguese - **Native**
-- English - **B2**
+- English - **C1**
 - Spanish - **B2**
