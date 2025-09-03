@@ -6,12 +6,12 @@
 
 > https://www.linkedin.com/in/igor-bueno-ab5712122/
 
-I've been a software developer for 8 years, passionate about technology and solving problems. Focused on the bases, concepts and foundations of technology, my goal is continue building a solid career and become a reference in the scenario
+I've been a software developer for 8 years, passionate about technology and solving problems. Focused on the basics, concepts, and foundations of technology, my goal is to continue building a solid career and become a reference in the scenario
 
 ## Hard Skills
 
 - Git - 8 years
-- Javascript - 8 years
+- JavaScript - 8 years
 - Typescript - 6 years
 - React.js (My primary competence) - 6 years
 - Redux - 6 years
@@ -42,7 +42,7 @@ I've been a software developer for 8 years, passionate about technology and solv
 
 ### Concepta Tech · Full-time
 **Senior Mobile Engineer**
-> April 2025 - Present · 5 Months
+> April 2025 - Present · 6 Months
 
 > Skills: React Native · Deep Linking · Firebase
 
@@ -98,7 +98,7 @@ I worked as a project development manager, as well as a .NET and React developer
 
 > Skills: ASP.NET MVC · Azure DevOps Services · .NET Core · React.js · TypeScript · React Native · Microsoft SQL Server · PostgreSQL
 
-I worked as a Full Stack developer on the following projects:
+I worked as a full-stack developer on the following projects:
 - Mobile application and waste collection API: App React Native and Expo were developed to register waste collections at customers and also collection attempts integrated with the ERP Alpha Express software. The app uses a REST API built with .NET 3.1 to persist data and handle authentication. The database used was SQL Server;
 - Web system and API for vehicle checklists: Software in ASP.NET Web Pages to launch truck inspection forms, analytical reports, general registrations, and authentication. The web application uses a REST API built with .NET 5 to persist data and handle authentication. The database used was SQL Server.
 - Web system for employee evaluations in ASP.NET Web Pages to launch self-evaluation forms, analytical reports, general registrations, and authentication. The web application uses a REST API built with .NET 5 to persist data and handle authentication. The database used was SQL Server.
@@ -106,7 +106,7 @@ I worked as a Full Stack developer on the following projects:
 ## Education
 
 ### IFRO (Federal Institute of Education, Science and Technology of Rondônia)
-**Technologist - System Analist**
+**Technologist - System Analyst**
 > Feb 2017 - Dec 2019
 
 ### IFRO (Federal Institute of Education, Science, and Technology of Rondônia)
