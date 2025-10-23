@@ -42,7 +42,7 @@ I've been a software developer for 8 years, passionate about technology and solv
 
 ### Concepta Tech · Full-time
 **Senior Mobile Engineer**
-> April 2025 - Present · 6 Months
+> April 2025 - Present · 7 Months
 
 > Skills: React Native · Deep Linking · Firebase
 
