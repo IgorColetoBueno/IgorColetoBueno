@@ -6,7 +6,7 @@
 
 > https://www.linkedin.com/in/igor-bueno-ab5712122/
 
-I've been a software developer for 8 years, passionate about technology and solving problems. Focused on the basics, concepts, and foundations of technology, my goal is to continue building a solid career and become a reference in the scenario
+I've been a software developer for 9 years, passionate about technology and solving problems. Focused on the basics, concepts, and foundations of technology, my goal is to continue building a solid career and become a reference in the tech scenario.
 
 ## Hard Skills
 
@@ -42,7 +42,7 @@ I've been a software developer for 8 years, passionate about technology and solv
 
 ### Concepta Tech · Full-time
 **Senior Mobile Engineer**
-> April 2025 - Present · 7 Months
+> April 2025 - Present · 10 Months
 
 > Skills: React Native · Deep Linking · Firebase
 
