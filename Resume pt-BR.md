@@ -30,13 +30,13 @@ Sou desenvolvedor de software há 9 anos, apaixonado por tecnologia e por resolv
 
 ## Soft Skills
 
-* Sentimento de dono (Feeling of belonging to the company)
+* Sentimento de dono
 * Liderança
 * Comunicação forte
 * Responsabilidade
 * Evolução constante
 * Mentalmente forte
-* Experiência com projetos problemáticos
+* Experiência com projetos desafiadores e prazos curtos
 
 ## Experiências profissionais
 
