@@ -42,11 +42,11 @@ I've been a software developer for 9 years, passionate about technology and solv
 
 ### Concepta Tech · Full-time
 **Senior Mobile Engineer**
-> April 2025 - Present · 10 Months
+> April 2025 - Present · 1 year and 2 Months
 
-> Skills: React Native · Deep Linking · Firebase
+> Skills: React Native · React Web · Deep Linking · Firebase · Ruby on Rails
 
-I'm assigned to a US Fintech Company, where I maintain and develop complex features in a reward-based private retirement mobile app.
+I'm assigned to a US Fintech Company, where I maintain and develop complex features in a reward-based private retirement mobile and web app.
 
 Additionally, I'm responsible for reviewing colleagues' code, writing unit tests with 100% coverage, designing solutions to technical problems, and utilizing observability tools to ensure the application is functioning as expected.
 
